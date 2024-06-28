@@ -1,3 +1,7 @@
+/*
+ C# program to learn how the for loop works.
+ In this program we are just accepting and displaying the information of n student were is input from user. 
+*/
 using System;
 namespace file{
 public class StudentRecord
